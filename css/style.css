@@ -1,0 +1,39 @@
+.container{
+    margin-bottom: 80px;
+}
+
+
+.orange-bg{
+    background-color: #FBE7E7;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: rgb(78, 5, 5);
+}
+.banner-img-wrap img{
+    width: 400px;
+    height: 350px;
+}
+
+
+.buy-now-button {background-image: linear-gradient(to right, #d4a8a8 0%, #944747  51%, #d8bbbb  100%)}
+.buy-now-button{
+   border: none;
+   padding: 15px 35px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   box-shadow: 0 0 20px #976868;
+   border-radius: 6px;
+   display: block;
+ }
+
+ .buy-now-button:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #FBE7E7;
+   text-decoration: none;
+ }
