@@ -70,6 +70,7 @@
 border: none;
 box-shadow: 5px 5px 5px #E3E3E3;
 border-radius: 15px;
+overflow: hidden;
 }
 .card .shoe-image:hover{
 transform: skew(5deg, 5deg);
@@ -111,7 +112,6 @@ cursor: pointer;
     }
 }
 
-
 .subscribe-button {background-image: linear-gradient(to right, rgb(173, 150, 150) 0%, #7a1717  51%, #725e5e  100%)}
 .subscribe-button{
    margin-top: 2px;
@@ -143,5 +143,4 @@ cursor: pointer;
     text-align: center;
     margin-bottom: 5px;
  }
-
 
